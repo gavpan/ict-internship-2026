@@ -12,6 +12,9 @@ Features
 - Enter student's name, age, and grade
 - Add multiple students at once
 - Displays entered students
+- Delete student records
+- Update student information
+- Code now checks for duplicate ID's and imputs that are invalid
 
 How to use
 - Install Python
@@ -19,3 +22,4 @@ How to use
 - Open it in VS Code or a general code editor
 - Run the program
 - Follow the instruction in the terminal
+  
