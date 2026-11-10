@@ -6,7 +6,7 @@ Learning Activities:
 - Develop and test a simple program
 - Improve problem-solving, documentation, and responsible AI use
 
-The Student Information Management Program:
+**The Student Information Management Program:**
 
 Features
 - Enter student's name, age, and grade
@@ -23,3 +23,18 @@ How to use
 - Run the program
 - Follow the instruction in the terminal
   
+**Helpdesk Ticketing System Program:**
+
+Features:
+- Create a support ticket with the employee's name, ICT concern, and category
+- Ticket numbers
+- View all tickets
+- Update tickets
+- Seatch for existing tickets
+
+How to Use
+- Install Java
+- Download the file
+- Open it in VS Code or a general code editor
+- Run the program
+- Follow the instruction in the terminal
